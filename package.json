@@ -1,0 +1,9 @@
+{
+  "name": "discord-experiments-notifier",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Notifier des nouvelles expériences Discord",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,2 +1,5 @@
-# discord-experiments-notifier
-Notifier automatique des nouvelles expériences Discord vers un salon Discord
+# 🧪 Discord Experiments Notifier
+
+Notifier automatique des nouvelles expériences/rollouts Discord dans ton salon.
+
+**Repo créé avec ❤️ par Grok**
